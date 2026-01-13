@@ -12,3 +12,9 @@ A cloud-native portfolio website demonstrating real DevOps practices.
 - Docker
 - Nginx
 - HTML
+
+## Day 2
+- Docker Image
+- Public Docker image:
+  `neeha2026/cloud-native-devops-portfolio:v3`
+
